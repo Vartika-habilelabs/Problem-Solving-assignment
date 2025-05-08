@@ -1,3 +1,4 @@
+console.log(:"dshfhf")
 function q1(arr,target)
 {
   let i=0,j=arr.length-1;
